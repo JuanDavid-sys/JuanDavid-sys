@@ -1,6 +1,6 @@
 # Hola, soy Juan David Duarte Sánchez
 
-**Full-Stack & AI Developer** con +3 años de experiencia.
+**Full-Stack & AI Developer** con +4 años de experiencia.
 Construyo plataformas web y móviles que integran IA (Gemini, Ollama, OpenAI, RAG).
 Zipaquirá, Colombia · Trabajo remoto.
 
